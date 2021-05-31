@@ -1,4 +1,4 @@
-# NewsBrowser
+# NewsBrowser (Android with Kotlin)
 
 •	Achieved MVVM architecture with Coroutine, Room, Live Data, View Model and Navigation components.  
 •	Fetched JSON Information from server with Coroutine, GSON, Retrofit.  
